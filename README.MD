@@ -1,2 +1,2 @@
 # calculator
-this the calculator, that works all mathmatical calcullations
+this the calculator, that works all mathmatical calcullation.
